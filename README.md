@@ -20,8 +20,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/motion-effect.git
-    cd motion-effect
+    git clone https://github.com/Md-Farhan-coder/responsive-motion-effect-website.git
     ```
 
 2. **Install dependencies:**
@@ -33,14 +32,14 @@ To run this project locally, follow these steps:
 3. **Start the development server:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
-    The application will run on `http://localhost:3000`.
+    The application will run on `http://localhost:5173`.
 
 ## Usage
 
-Once the development server is running, open your browser and navigate to `http://localhost:3000`. You can interact with the motion effect by hovering over the designated elements to see the animations in action.
+Once the development server is running, open your browser and navigate to `http://localhost:5173`. You can interact with the motion effect by hovering over the designated elements to see the animations in action.
 
 ## Hosting
 
