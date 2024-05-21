@@ -45,7 +45,7 @@ Once the development server is running, open your browser and navigate to `http:
 
 You can view the live project at the following link:
 
-[Live Demo](https://your-hosting-link.com)
+[Live Demo](https://motion-effect-app.netlify.app/)
 
 ## Contributing
 
