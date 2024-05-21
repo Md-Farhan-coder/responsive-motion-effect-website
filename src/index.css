@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg{
+    background-color: rgb(13, 5, 31);;
+}
+
+.rating-color{
+   color:  #EEE5FFBD;
+}
+.button-background-image {
+   background-image:  linear-gradient(90deg, #5E11FF 30%, #F87516 100%)
+};
+.card-background-image {
+    background-image: linear-gradient(180deg, #0D061F 0%, #251E35 100%);
+}
+.container-background-image {
+    background-image: linear-gradient(180deg, #0D061F 0%, #251E35 100%)
+}
+.bg-color{
+    background: -webkit-linear-gradient(0deg, #F87516 0%, #5E11FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
+.sora-family {
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
